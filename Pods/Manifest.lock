@@ -1,0 +1,17 @@
+PODS:
+  - LCBannerView (2.0.0):
+    - SDWebImage (~> 3.7.6)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+
+DEPENDENCIES:
+  - LCBannerView
+
+SPEC CHECKSUMS:
+  LCBannerView: 1366fc685dc3e23762dc1f39a525abbeef85ccf6
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+
+PODFILE CHECKSUM: 328fb1985bbc9921f803b6f17b8dbf4235186604
+
+COCOAPODS: 1.0.0
