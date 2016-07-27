@@ -2,7 +2,7 @@
 //  LCBannerViewDemo_SwiftTests.swift
 //  LCBannerViewDemo-SwiftTests
 //
-//  Created by 苑金仓 on 16/7/27.
+//  Created by Leo on 16/7/27.
 //  Copyright © 2016年 Leo（http://LeoDev.me）. All rights reserved.
 //
 
