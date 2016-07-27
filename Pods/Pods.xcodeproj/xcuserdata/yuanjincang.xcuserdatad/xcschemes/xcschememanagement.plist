@@ -4,22 +4,27 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Alamofire.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>LCBannerView.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-LCBannerViewDemoi-Swift.xcscheme</key>
+		<key>Pods-LCBannerViewDemo-Swift.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-LCBannerViewDemoi-SwiftTests.xcscheme</key>
+		<key>Pods-LCBannerViewDemo-SwiftTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-LCBannerViewDemoi-SwiftUITests.xcscheme</key>
+		<key>Pods-LCBannerViewDemo-SwiftUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -32,12 +37,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4F63AD2A1C5C9B6FF66785A1D5F92FBB</key>
+		<key>39B6E7000F2F557E2892B02E2B46F9AC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6DF5B419F107DA6C2FE3A2BD0FA227AF</key>
+		<key>793BDD3CB507B0F50DC5B8F644AB8566</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>79C040AFDDCE1BCBF6D8B5EB0B85887F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -47,12 +57,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>DD9BD9D6A059330B58FB60D87DB5D78A</key>
+		<key>CFBBA53D22ED3ED8C4485B8B86522FF3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>EA52FC122D8A3F3BB11895393BB51355</key>
+		<key>DD9BD9D6A059330B58FB60D87DB5D78A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

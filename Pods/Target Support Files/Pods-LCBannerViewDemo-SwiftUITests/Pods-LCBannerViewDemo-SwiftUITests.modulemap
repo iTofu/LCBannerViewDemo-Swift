@@ -1,0 +1,6 @@
+framework module Pods_LCBannerViewDemo_SwiftUITests {
+  umbrella header "Pods-LCBannerViewDemo-SwiftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
